@@ -101,7 +101,7 @@ The complete list of labels [defined in Libpostal](https://github.com/openvenues
 * city
 * state_district
 * state
-* postalcode
+* postcode
 * country
 
 Depending on the address string you are parsing only some of those labels may be returned in the result set.
